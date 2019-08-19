@@ -16,7 +16,8 @@ class MainViewController: UITabBarController {
         addChildVC(name: "Home")
         addChildVC(name: "Live")
         addChildVC(name: "Follow")
-        addChildVC(name: "Profile")
+//        addChildVC(name: "Profile")
+        
     }
     
     private func addChildVC(name:String) {
